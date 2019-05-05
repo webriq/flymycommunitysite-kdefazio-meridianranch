@@ -3,7 +3,10 @@
     {
       "sitename": "Fly My Community",
       "icon": "/img/favicon.png",
-      "logo": "/img/logo.png",
+      "logo": [
+        "null",
+        "null"
+      ],
       "metadesc": "Trusted By Fine Real Estate Professionals",
       "metauthor": "Fly My Community",
       "metakeyword": "cms"
@@ -11,8 +14,8 @@
   ],
   "content": [
     {
-      "email": "flymycommunity@gmail.com",
-      "linkcont": "+0909 2131 1231",
+      "email": "KristiDeFazio@remax.net",
+      "linkcont": "7194595468",
       "videoid": "233902824",
       "sliderbg": "/img/fly3_bg.jpg"
     }
